@@ -14,6 +14,8 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.yzh.nuc.www.*;
+
 import com.tencent.streetsdkdemo.MainActivity.DemoInfo;
 
 public class MainActivity extends Activity {
