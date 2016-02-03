@@ -3,9 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
-    <com.tencent.tencentmap.streetviewsdk.StreetViewPanoramaView
+    <nuc.yzh.nuc.www.
         android:id="@+id/panorama_view"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
-
+    StreetViewPanoramaView
 </LinearLayout>
