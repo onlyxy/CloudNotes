@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

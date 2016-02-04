@@ -1,0 +1,16 @@
+Index: Cloudnotes/src/main/java/com/cloudnotes/streetsdkfragment/PanoramaFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Cloudnotes/src/main/java/com/cloudnotes/streetsdkfragment/PanoramaFragment.java	(date 1454609597000)
++++ Cloudnotes/src/main/java/com/cloudnotes/streetsdkfragment/PanoramaFragment.java	(revision )
+@@ -26,7 +26,7 @@
+ 		// TODO Auto-generated method stub
+ 		View view = inflater.inflate(R.layout.panarama_fragment, container, false);
+ 		mPanoramaView = (StreetViewPanoramaView)view.findViewById(R.id.panorama_view);
+-		return view;//
++		return view;///
+ 	}
+ 	
+ 	@Override

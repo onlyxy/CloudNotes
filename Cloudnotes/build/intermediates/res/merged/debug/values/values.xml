@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_background">#88000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TencentPanoramaSDKDemo</string>
+    <string name="demo_desc_pano_activity">展示activity中的街景功能</string>
+    <string name="demo_desc_pano_fragment">展示fragment中的街景功能</string>
+    <string name="demo_lable_pano_activity">activity中使用街景:PanaramaActivity</string>
+    <string name="demo_lable_pano_fragment">fragment中使用街景:PanaramaFragActivity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

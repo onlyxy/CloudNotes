@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\build\\intermediates\\res\\merged\\debug\\anim\\control_appear.xml",
+        "source": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\src\\main\\res\\anim\\control_appear.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\anim\\control_appear.xml",
+        "source": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\src\\main\\res\\anim\\control_appear.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\anim\\control_vanish.xml",
+        "source": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\src\\main\\res\\anim\\control_vanish.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\anim\\control_appear.xml",
+        "source": "F:\\AndroidStudioProject\\CloudNotes\\Cloudnotes\\src\\main\\res\\anim\\control_appear.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\build\\intermediates\\res\\merged\\debug\\anim\\control_vanish.xml",
+        "source": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\src\\main\\res\\anim\\control_vanish.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\anim\\control_vanish.xml",
+        "source": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\src\\main\\res\\anim\\control_vanish.xml"
+    }
+]
