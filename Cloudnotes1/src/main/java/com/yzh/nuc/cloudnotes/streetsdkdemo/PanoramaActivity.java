@@ -32,7 +32,7 @@ import com.tencent.tencentmap.streetviewsdk.StreetViewPanoramaView;
 public class PanoramaActivity extends Activity implements 
 OnStreetViewPanoramaChangeListener, OnStreetViewPanoramaFinishListner, 
 OnStreetViewPanoramaCameraChangeListener {
-
+gf
 	private StreetViewPanoramaView mPanoramaView;
 	private StreetViewPanorama  mPanorama;
 
