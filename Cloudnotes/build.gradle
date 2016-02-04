@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.tencent.streetsdkdemo"
+        minSdkVersion 8
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/TencentLocationSDK_v4.3.0_r196568_151014_1433.jar')
+    compile files('libs/TencentMapSDK_Raster_v1.1.2.15850.jar')
+    compile files('libs/TencentPanoramaSDK_v.1.2.0_16324.jar')
+}
