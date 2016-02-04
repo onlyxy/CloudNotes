@@ -68,7 +68,7 @@ gf
 		mPanorama = mPanoramaView.getStreetViewPanorama();
 		//初始化地点为中国技术交易大厦
 		mPanorama.setPosition(39.984122, 116.307894);
-//		mPanorama.setPosition("10011001120307113241300");
+		mPanorama.setPosition("10011001120307113241300");
 		mPanorama.setOnStreetViewPanoramaChangeListener(this);
 		mPanorama.setOnStreetViewPanoramaFinishListener(this);
 		mPanorama.setOnStreetViewPanoramaCameraChangeListener(this);
