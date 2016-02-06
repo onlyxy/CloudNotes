@@ -26,35 +26,38 @@ public final class R {
         public static final int location=0x7f020001;
     }
     public static final class id {
-        public static final int brn_somatosensory=0x7f090006;
-        public static final int btn_location_manager=0x7f090005;
-        public static final int btn_turn_down=0x7f090015;
-        public static final int btn_turn_left=0x7f090012;
-        public static final int btn_turn_right=0x7f090013;
-        public static final int btn_turn_up=0x7f090014;
-        public static final int cb_gallery=0x7f09000e;
-        public static final int cb_gestures=0x7f090009;
-        public static final int cb_guidance=0x7f09000d;
-        public static final int cb_indoor_link=0x7f090010;
-        public static final int cb_navigation=0x7f09000c;
-        public static final int cb_scence_name=0x7f09000f;
-        public static final int cb_streetname=0x7f09000a;
-        public static final int cb_zoom=0x7f09000b;
+        public static final int brn_somatosensory=0x7f090008;
+        public static final int btn_location_manager=0x7f090007;
+        public static final int btn_turn_down=0x7f090017;
+        public static final int btn_turn_left=0x7f090014;
+        public static final int btn_turn_right=0x7f090015;
+        public static final int btn_turn_up=0x7f090016;
+        public static final int cb_gallery=0x7f090010;
+        public static final int cb_gestures=0x7f09000b;
+        public static final int cb_guidance=0x7f09000f;
+        public static final int cb_indoor_link=0x7f090012;
+        public static final int cb_navigation=0x7f09000e;
+        public static final int cb_scence_name=0x7f090011;
+        public static final int cb_streetname=0x7f09000c;
+        public static final int cb_zoom=0x7f09000d;
         public static final int desc=0x7f090001;
         public static final int lable=0x7f090000;
-        public static final int layout_control=0x7f090008;
-        public static final int layout_orientation_panel=0x7f090011;
-        public static final int mapview=0x7f090004;
+        public static final int layout_control=0x7f09000a;
+        public static final int layout_orientation_panel=0x7f090013;
+        public static final int mapview=0x7f090006;
         public static final int marker_title=0x7f090002;
-        public static final int panorama_fragment=0x7f090003;
-        public static final int panorama_view=0x7f090007;
+        public static final int panorama_fragment=0x7f090005;
+        public static final int panorama_view=0x7f090009;
+        public static final int textView=0x7f090004;
+        public static final int textView2=0x7f090003;
     }
     public static final class layout {
         public static final int demo_list_item=0x7f030000;
         public static final int marker=0x7f030001;
-        public static final int pana_frag_activity=0x7f030002;
-        public static final int panarama_activity=0x7f030003;
-        public static final int panarama_fragment=0x7f030004;
+        public static final int notes=0x7f030002;
+        public static final int pana_frag_activity=0x7f030003;
+        public static final int panarama_activity=0x7f030004;
+        public static final int panarama_fragment=0x7f030005;
     }
     public static final class menu {
         public static final int main=0x7f080000;
@@ -62,10 +65,12 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f070000;
         public static final int app_name=0x7f070001;
-        public static final int demo_desc_pano_activity=0x7f070002;
-        public static final int demo_desc_pano_fragment=0x7f070003;
-        public static final int demo_lable_pano_activity=0x7f070004;
-        public static final int demo_lable_pano_fragment=0x7f070005;
-        public static final int hello_world=0x7f070006;
+        public static final int demo_desc_notes=0x7f070002;
+        public static final int demo_desc_pano_activity=0x7f070003;
+        public static final int demo_desc_pano_fragment=0x7f070004;
+        public static final int demo_lable_notes=0x7f070005;
+        public static final int demo_lable_pano_activity=0x7f070006;
+        public static final int demo_lable_pano_fragment=0x7f070007;
+        public static final int hello_world=0x7f070008;
     }
 }

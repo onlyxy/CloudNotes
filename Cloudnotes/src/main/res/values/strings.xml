@@ -9,5 +9,7 @@
     <string name="demo_desc_pano_activity">展示activity中的街景功能</string>
     <string name="demo_lable_pano_fragment">fragment中使用街景:PanaramaFragActivity</string>
     <string name="demo_desc_pano_fragment">展示fragment中的街景功能</string>
+    <string name="demo_lable_notes">笔记</string>
+    <string name="demo_desc_notes">快速记录</string>
 
 </resources>

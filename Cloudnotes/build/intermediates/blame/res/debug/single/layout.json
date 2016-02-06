@@ -4,6 +4,10 @@
         "source": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\src\\main\\res\\layout\\panarama_fragment.xml"
     },
     {
+        "merged": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "F:\\AndroidStudioProject\\android-card-slide-panel-master\\CloudNotes\\Cloudnotes\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pana_frag_activity.xml",
         "source": "F:\\AndroidStudioProject\\TencentPanoramaSDKDemo\\TencentPanoramaSDKDemo\\src\\main\\res\\layout\\pana_frag_activity.xml"
     },
