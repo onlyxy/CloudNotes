@@ -14,6 +14,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.cloudnotes.notes.Notes;
 import com.cloudnotes.streetsdkdemo.MainActivity.DemoInfo;
 import com.tencent.streetsdkdemo.R;
 
@@ -23,7 +24,8 @@ public class MainActivity extends Activity {
 			new DemoInfo(R.string.demo_lable_pano_activity,
 					R.string.demo_desc_pano_activity, PanoramaActivity.class),
 			new DemoInfo(R.string.demo_lable_pano_fragment, 
-					R.string.demo_desc_pano_fragment, PanoramaFragActivity.class)
+					R.string.demo_desc_pano_fragment, PanoramaFragActivity.class),
+			new DemoInfo(R.string.demo_desc_notes,R.string.demo_desc_notes,Notes.class)
 	};
 	
 	@Override
