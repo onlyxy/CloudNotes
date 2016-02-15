@@ -57,10 +57,11 @@ public class TimePickertest extends Activity {
                 showDate(year, month, day, hour, minute);
             }
         });
-        //定义在EditTest中显示当前日期、时间的方法
-
+    }
+    //定义在EditTest中显示当前日期、时间的方法
     private void showDate(int year, int month, int day, int hour, int minute) {
         EditText show = (EditText) findViewById(R.id.show);
         show.setText("您的购买日期为:" + year + "年" + (month + 1) + "月" + day + "日" + hour + "时" + minute + "分");
     }
 }
+
