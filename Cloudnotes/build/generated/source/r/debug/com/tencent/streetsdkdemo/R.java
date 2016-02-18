@@ -40,6 +40,7 @@ public final class R {
         public static final int cb_scence_name=0x7f090012;
         public static final int cb_streetname=0x7f09000d;
         public static final int cb_zoom=0x7f09000e;
+        public static final int datePicker=0x7f090019;
         public static final int desc=0x7f090001;
         public static final int lable=0x7f090000;
         public static final int layout_control=0x7f09000b;
@@ -48,9 +49,11 @@ public final class R {
         public static final int marker_title=0x7f090002;
         public static final int panorama_fragment=0x7f090006;
         public static final int panorama_view=0x7f09000a;
+        public static final int show=0x7f09001b;
         public static final int tab01=0x7f090003;
         public static final int tab02=0x7f090004;
         public static final int tab03=0x7f090005;
+        public static final int timePicker=0x7f09001a;
     }
     public static final class layout {
         public static final int demo_list_item=0x7f030000;
@@ -59,6 +62,7 @@ public final class R {
         public static final int pana_frag_activity=0x7f030003;
         public static final int panarama_activity=0x7f030004;
         public static final int panarama_fragment=0x7f030005;
+        public static final int timepickertest=0x7f030006;
     }
     public static final class menu {
         public static final int main=0x7f080000;
