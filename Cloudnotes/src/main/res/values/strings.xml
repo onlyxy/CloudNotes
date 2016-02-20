@@ -5,12 +5,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="demo_lable_pano_activity">activity中使用街景:PanaramaActivity</string>
-    <string name="demo_desc_pano_activity">展示activity中的街景功能</string>
+    <string name="demo_lable_pano_activity">Activity中使用街景:PanaramaActivity</string>
+    <string name="demo_desc_pano_activity">展示Activity中的街景功能</string>
     <string name="demo_lable_pano_fragment">fragment中使用街景:PanaramaFragActivity</string>
-    <string name="demo_desc_pano_fragment">展示fragment中的街景功能</string>
+    <string name="demo_desc_pano_fragment">展示Fragment中的街景功能</string>
 
     <string name="demo_lable_notes">笔记</string>
     <string name="demo_desc_notes">快速记录</string>
+
+    <string name="demo_lable_real">在线交流</string>
+    <string name="demo_desc_data">在这里共同探讨</string>
 
 </resources>

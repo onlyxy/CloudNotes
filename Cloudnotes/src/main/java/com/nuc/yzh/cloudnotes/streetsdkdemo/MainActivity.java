@@ -15,6 +15,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.nuc.yzh.cloudnotes.notes.NotesActivity;
+import com.nuc.yzh.cloudnotes.realtimedata.ChatActivity;
 import com.nuc.yzh.cloudnotes.streetsdkdemo.MainActivity.DemoInfo;
 import com.tencent.streetsdkdemo.R;
 
@@ -25,7 +26,8 @@ public class MainActivity extends Activity {
 					R.string.demo_desc_pano_activity, PanoramaActivity.class),
 			new DemoInfo(R.string.demo_lable_pano_fragment, 
 					R.string.demo_desc_pano_fragment, PanoramaFragActivity.class),
-			new DemoInfo(R.string.demo_desc_notes,R.string.demo_desc_notes,NotesActivity.class)
+			new DemoInfo(R.string.demo_lable_notes,R.string.demo_desc_notes,NotesActivity.class),
+			new DemoInfo(R.string.demo_lable_real,R.string.demo_desc_data,ChatActivity.class)
 	};
 	
 	@Override
