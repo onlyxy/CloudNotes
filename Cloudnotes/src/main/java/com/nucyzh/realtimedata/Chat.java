@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.realtimedata;
+package com.nucyzh.realtimedata;
 
 import cn.bmob.v3.BmobObject;
 

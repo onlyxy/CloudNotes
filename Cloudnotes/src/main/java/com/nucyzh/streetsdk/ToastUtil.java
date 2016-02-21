@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkdemo;
+package com.nucyzh.streetsdk;
 
 import android.content.Context;
 import android.widget.Toast;

@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkfragment;
+package com.nucyzh.streetsdkfragment;
 
 import com.tencent.tencentmap.streetviewsdk.StreetViewPanorama;
 

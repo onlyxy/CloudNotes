@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkdemo;
+package com.nucyzh.streetsdk;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,10 +14,11 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.nuc.yzh.cloudnotes.notes.NotesActivity;
-import com.nuc.yzh.cloudnotes.realtimedata.ChatActivity;
-import com.nuc.yzh.cloudnotes.streetsdkdemo.MainActivity.DemoInfo;
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
+import com.nucyzh.notes.NotesActivity;
+import com.nucyzh.realtimedata.ChatActivity;
+import com.nucyzh.streetsdk.MainActivity.DemoInfo;
+
 
 public class MainActivity extends Activity {
 

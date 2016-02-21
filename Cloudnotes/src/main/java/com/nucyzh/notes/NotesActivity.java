@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.notes;
+package com.nucyzh.notes;
 
 import android.app.Activity;
 import android.app.ListActivity;
@@ -10,8 +10,9 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 
-import com.nuc.yzh.cloudnotes.notes.db.NotesDB;
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
+import com.nucyzh.notes.db.NotesDB;
+
 
 /**
  * Author:XiYang on 2016/2/18.

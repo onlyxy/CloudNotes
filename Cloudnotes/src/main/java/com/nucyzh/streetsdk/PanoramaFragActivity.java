@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkdemo;
+package com.nucyzh.streetsdk;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -12,8 +12,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.nuc.yzh.cloudnotes.streetsdkfragment.PanoramaFragment;
-import com.nuc.yzh.cloudnotes.streetsdkfragment.PanoramaFragmentController;
+import com.nucyzh.R;
+import com.nucyzh.streetsdkfragment.PanoramaFragment;
+import com.nucyzh.streetsdkfragment.PanoramaFragmentController;
 import com.tencent.map.geolocation.TencentLocation;
 import com.tencent.map.geolocation.TencentLocationListener;
 import com.tencent.map.geolocation.TencentLocationManager;
@@ -22,7 +23,6 @@ import com.tencent.mapsdk.raster.model.BitmapDescriptorFactory;
 import com.tencent.mapsdk.raster.model.LatLng;
 import com.tencent.mapsdk.raster.model.Marker;
 import com.tencent.mapsdk.raster.model.MarkerOptions;
-import com.tencent.streetsdkdemo.R;
 import com.tencent.tencentmap.mapsdk.map.MapView;
 import com.tencent.tencentmap.mapsdk.map.TencentMap;
 import com.tencent.tencentmap.mapsdk.map.TencentMap.OnMapClickListener;

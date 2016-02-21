@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkdemo;
+package com.nucyzh.streetsdk;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -20,7 +20,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
 import com.tencent.tencentmap.streetviewsdk.Marker;
 import com.tencent.tencentmap.streetviewsdk.StreetViewPanorama;
 import com.tencent.tencentmap.streetviewsdk.StreetViewPanorama.OnStreetViewPanoramaCameraChangeListener;

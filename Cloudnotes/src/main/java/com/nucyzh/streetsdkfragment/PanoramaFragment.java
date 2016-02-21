@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.streetsdkfragment;
+package com.nucyzh.streetsdkfragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
 import com.tencent.tencentmap.streetviewsdk.StreetViewPanoramaView;
 
 public class PanoramaFragment extends Fragment {

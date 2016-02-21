@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.notes;
+package com.nucyzh.notes;
 
 import android.app.Activity;
 import android.net.Uri;

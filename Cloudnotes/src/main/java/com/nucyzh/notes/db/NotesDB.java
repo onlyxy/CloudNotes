@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.notes.db;
+package com.nucyzh.notes.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

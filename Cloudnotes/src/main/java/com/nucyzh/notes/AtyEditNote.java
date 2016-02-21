@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.notes;
+package com.nucyzh.notes;
 
 import android.app.ListActivity;
 import android.content.ContentValues;
@@ -19,8 +19,8 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.nuc.yzh.cloudnotes.notes.db.NotesDB;
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
+import com.nucyzh.notes.db.NotesDB;
 
 import java.io.File;
 import java.io.IOException;

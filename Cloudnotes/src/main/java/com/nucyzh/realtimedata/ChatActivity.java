@@ -1,4 +1,4 @@
-package com.nuc.yzh.cloudnotes.realtimedata;
+package com.nucyzh.realtimedata;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.tencent.streetsdkdemo.R;
+import com.nucyzh.R;
 
 import org.json.JSONObject;
 
